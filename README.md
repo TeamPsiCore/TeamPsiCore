@@ -11,7 +11,7 @@ La misión profesional que tenemos con la población, es ofrecerles posibilidade
 El Centro PsiCore, elaboró un software llamado “PsiCore”, para estar a la par de la tecnología, este evalúa tanto la capacidad intelectual, aptitudes, actitudes, rasgos de personalidad, talentos, preferencias laborales, entre otros.
 
 
-
+ [SemVer](https://semver.org/) version: ![semver](https://img.shields.io/badge/semver-1.0.0-blue)
 <!--
 **TeamPsiCore/TeamPsiCore** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
