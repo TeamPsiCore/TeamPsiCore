@@ -1,11 +1,14 @@
 # Centro PsiCore
 
-Centro Psicologico
+El “Centro PsiCore”, es una institución multidisciplinaria, dedicada a coadyuvar la salud mental, la misma ofrece servicios en el ámbito psicológico, apoyados por el área de sistemas informáticos del centro.
 
-Evaluaciones Psicologicas
+La formación de los profesionales en el área psicológica está especializada en, asesorías, psicoterapia individual, grupal y familiar, elaboración de perfiles psicológicos, en orientación vocacional, selección de personal, en administración de test y análisis cuantitativos y cualitativos de los resultados.
 
+Somos una institución multidisciplinaria, dedicada a coadyuvar la salud mental, promoviendo la calidad de vida en la población de La Paz, Bolivia.
 
-### Hola 👋
+La misión profesional que tenemos con la población, es ofrecerles posibilidades y alternativas de calidad de vida, teniendo interacciones directas y dirigidas en áreas especializadas como; “Escuela de Padres”, “Evaluación Psicológica Vocacional” como parte de la orientación vocacional, “Diagnostico de Aptitudes”, “Selección de Personal”, “Apoyo Psicológico; Individual, Grupal y Familiar”.
+
+El Centro PsiCore, elaboró un software llamado “PsiCore”, para estar a la par de la tecnología, este evalúa tanto la capacidad intelectual, aptitudes, actitudes, rasgos de personalidad, talentos, preferencias laborales, entre otros.
 
 
 
